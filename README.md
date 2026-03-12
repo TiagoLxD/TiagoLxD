@@ -1,22 +1,56 @@
-# 👋 Olá, eu sou Tiago!
+# 👋 Hi, I'm Tiago
 
-**Senior Software Engineer** | **Full-Stack Developer** 
+**Senior Software Engineer | Full-Stack Developer**
 
-> Transformando ideias em soluções digitais robustas e escaláveis há mais de 5 anos
-
----
-
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia com expertise em arquiteturas modernas e práticas de desenvolvimento ágil. Especializado em construir aplicações de alta performance e liderar equipes técnicas para entregar produtos de qualidade.
-
-- 💼 **Experiência**: 6+ anos em desenvolvimento de software
-- 🎯 **Foco**: Arquitetura de sistemas, Clean Code e DevOps
-- 🌱 **Sempre aprendendo**: Novas tecnologias e melhores práticas
-- 👥 **Liderança**: Mentoria de desenvolvedores e gestão de projetos técnicos
+Building scalable systems and high-performance applications.
 
 ---
 
+## About Me
+
+Software engineer with 6+ years of experience building web applications and scalable systems.  
+Strong focus on clean architecture, performance, and maintainable code.
+
+Experienced working across the full stack, contributing from system design to production deployment.
+
+- 6+ years in software development
+- Experience with modern web architectures
+- Focus on scalability, performance, and clean code
+- Experience collaborating with product and engineering teams
+- Interest in system design and backend architecture
+
+---
+
+## Tech Stack
+
+**Frontend**
+- Angular
+- React / Next.js
+- TypeScript
+- Tailwind / Modern CSS
+
+**Backend**
+- .NET / ASP.NET Core
+- Node.js
+- REST APIs
+- Microservices Architecture
+
+**Infrastructure**
+- Docker
+- CI/CD
+- Cloud environments
+- Git workflows
+
+---
+
+## Projects
+
+Due to current workload and private client projects, I do not maintain many public repositories.
+
+If you are evaluating my profile for an opportunity, feel free to reach out.  
+I’m open to technical discussions or a small test project as part of an interview process.
+
+---
 ## 🛠️ Stack Tecnológica
 
 ### **Frontend**
